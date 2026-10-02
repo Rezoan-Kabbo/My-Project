@@ -1,0 +1,24 @@
+blue-slider .track {
+    -fx-background-color: #cccccc;
+}
+.blue-slider .filled-track {
+    -fx-background-color: #2196F3;
+}
+.blue-slider .thumb {
+    -fx-background-color: #1e88e5;
+    /*-fx-background-insets: 0;*/
+    /*-fx-background-radius: 50%;*/
+}
+
+/*.red-slider .track {*/
+/*    -fx-background-color: #cccccc;*/
+/*}*/
+/*.red-slider .filled-track {*/
+/*    -fx-background-color: #f44336;*/
+/*}*/
+/*.red-slider .thumb {*/
+/*    -fx-background-color: #f44336;*/
+/*    !*-fx-background-insets: 0;*!*/
+/*    !*-fx-background-radius: 50%;*!*/
+/*}*/
+

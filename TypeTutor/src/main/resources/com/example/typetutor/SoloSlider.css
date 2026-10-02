@@ -1,0 +1,12 @@
+custom-slider .track {
+    -fx-background-color: #4caf50;
+}
+
+.custom-slider .filled-track {
+    -fx-background-color: #4caf50; /* green fill */
+}
+
+.custom-slider .thumb {
+    -fx-background-color: #1e88e5; /* blue thumb */
+}
+
